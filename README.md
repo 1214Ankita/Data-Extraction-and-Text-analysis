@@ -1,6 +1,6 @@
 # Data-Extraction-and-Text-analysis
 
-#### Objective: Extract and analyze text data from web pages to generate various readability and sentiment metrics.
+### Objective: Extract and analyze text data from web pages to generate various readability and sentiment metrics.
 
 #### Steps:
 Load Data: Import URLs from an Excel file.
